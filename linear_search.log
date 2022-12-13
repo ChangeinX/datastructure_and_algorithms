@@ -1,0 +1,6 @@
+2022-12-13 09:56:11,643:DEBUG:Beginning linear search of prime numbers of length 1000000 for 102911.
+2022-12-13 09:56:11,644:DEBUG:Found 102911 at index 9846.
+2022-12-13 09:56:11,644:DEBUG:Linear search took 0.000997304916381836 seconds.
+2022-12-13 09:56:43,329:DEBUG:Beginning linear search of prime numbers of length 1000000 for 15346759.
+2022-12-13 09:56:43,373:DEBUG:Found 15346759 at index 991671.
+2022-12-13 09:56:43,374:DEBUG:Linear search took 0.044614553451538086 seconds.
