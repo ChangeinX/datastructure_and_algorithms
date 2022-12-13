@@ -1,0 +1,19 @@
+# Simple gitignore
+
+# All logs
+*.log
+
+# All temp files
+*.tmp
+
+# All backup files
+*.bak
+
+# All cache files
+*.cache
+
+# idea directory
+.idea
+
+
+
